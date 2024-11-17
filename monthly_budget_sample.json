@@ -1,0 +1,92 @@
+[
+    {
+        "source": "Salary",
+        "target": "Gross Income",
+        "value": 3000.0
+    },
+    {
+        "source": "Dividends",
+        "target": "Gross Income",
+        "value": 270.0
+    },
+    {
+        "source": "Uber",
+        "target": "Gross Income",
+        "value": 500.0
+    },
+    {
+        "source": "Social Media",
+        "target": "Gross Income",
+        "value": 800.0
+    },
+    {
+        "source": "Consulting",
+        "target": "Gross Income",
+        "value": 1000.0
+    },
+    {
+        "source": "Gross Income",
+        "target": "Taxes",
+        "value": 500.0
+    },
+    {
+        "source": "Gross Income",
+        "target": "Rentals",
+        "value": 1600.0
+    },
+    {
+        "source": "Gross Income",
+        "target": "Groceries",
+        "value": 600.0
+    },
+    {
+        "source": "Taxes",
+        "target": "Federal",
+        "value": 270.0
+    },
+    {
+        "source": "Taxes",
+        "target": "Provincial",
+        "value": 230.0
+    },
+    {
+        "source": "Gross Income",
+        "target": "Internet and Phone",
+        "value": 120.0
+    },
+    {
+        "source": "Gross Income",
+        "target": "Car",
+        "value": 780.0
+    },
+    {
+        "source": "Car",
+        "target": "EMI",
+        "value": 250.0
+    },
+    {
+        "source": "Car",
+        "target": "Insurance",
+        "value": 530.0
+    },
+    {
+        "source": "Gross Income",
+        "target": "Miscellaneous",
+        "value": 600.0
+    },
+    {
+        "source": "Miscellaneous",
+        "target": "Entertainment",
+        "value": 200.0
+    },
+    {
+        "source": "Miscellaneous",
+        "target": "Eating out",
+        "value": 400.0
+    },
+    {
+        "source": "Gross Income",
+        "target": "Savings",
+        "value": 1370.0
+    }
+]

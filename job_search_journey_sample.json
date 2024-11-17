@@ -1,0 +1,57 @@
+[
+    {
+        "source": "Career Site",
+        "target": "Total Job Applications",
+        "value": 12.0
+    },
+    {
+        "source": "Referral",
+        "target": "Total Job Applications",
+        "value": 6.0
+    },
+    {
+        "source": "Linkedin",
+        "target": "Total Job Applications",
+        "value": 20.0
+    },
+    {
+        "source": "Indeed",
+        "target": "Total Job Applications",
+        "value": 22.0
+    },
+    {
+        "source": "Total Job Applications",
+        "target": "Recruiter Screening",
+        "value": 15.0
+    },
+    {
+        "source": "Recruiter Screening",
+        "target": "Hiring Manager Round",
+        "value": 5.0
+    },
+    {
+        "source": "Hiring Manager Round",
+        "target": "Technical Interview",
+        "value": 4.0
+    },
+    {
+        "source": "Technical Interview",
+        "target": "Behavioral Interview",
+        "value": 2.0
+    },
+    {
+        "source": "Behavioral Interview",
+        "target": "Negotiation",
+        "value": 2.0
+    },
+    {
+        "source": "Negotiation",
+        "target": "Offer",
+        "value": 1.0
+    },
+    {
+        "source": "Total Job Applications",
+        "target": "No Response",
+        "value": 45.0
+    }
+]
