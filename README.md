@@ -1,5 +1,5 @@
 # SankeyGraphsForEverything
-Sankey graphs are my one of the favorite visualizations. Jupyter notebooks are my hammer and every problem is a nail.
+Sankey graphs are one of the most interesting visualizations. Jupyter notebooks are my hammer and every problem is a nail.
 
 ## What is a Sankey Graph?
 A Sankey graph is a type of flow diagram that shows the flow of data between different categories. It is a useful tool for visualizing data relationships and patterns.
