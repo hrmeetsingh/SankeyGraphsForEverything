@@ -5,7 +5,7 @@ Sankey graphs are one of the most interesting visualizations. Jupyter notebooks 
 A Sankey graph is a type of flow diagram that shows the flow of data between different categories. It is a useful tool for visualizing data relationships and patterns.
 
 ## How to get ready
-1. Clone the repository: `git clone https://github.com/yourusername/SankeyGraphsForEverything.git`
+1. Clone the repository: `git clone https://github.com/hrmeetsingh/SankeyGraphsForEverything.git`
 2. Navigate to the repository directory: `cd SankeyGraphsForEverything`
 3. Create a virtual environment: `python3 -m venv venv`
 4. Activate the virtual environment: `source venv/bin/activate`
