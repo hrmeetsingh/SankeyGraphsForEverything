@@ -43,5 +43,5 @@ Load the file "job_search_journey_sample.json" from project directory to create 
 ![Job Search sample](./images/JobSearchJourney.png)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/SankeyGraphsForEverything/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/hrmeetsingh/SankeyGraphsForEverything/blob/main/LICENSE) file for details.
 
